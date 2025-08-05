@@ -7,5 +7,6 @@ class Student{
     public static void main(String arg[]){
         System.out.println("hello");
         System.out.println("EvaryOne");
+        System.out.println("helllo siri this is Nikita");
     }
 }
