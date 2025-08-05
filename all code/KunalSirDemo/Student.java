@@ -2,6 +2,7 @@ class Student{
     int id;
     String name;
     float percentage ;
+    String email;
     String address;
     public static void main(String arg[]){
         System.out.println("hello");
